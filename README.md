@@ -1,11 +1,10 @@
 ### Hi there, 👋 I'm Eduardo Maia
 ---
 <div align="center" style="display: inline_block">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=edumaia87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumaia87&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edumaia87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## Technologies I use
+## Technologies I use im my day 💬
 <div>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
